@@ -2,70 +2,85 @@
 
 ### Product Leader | AI-Native Products | B2B SaaS | 0→1 Product Development
 
-I build products that convert complex operational problems into clear, scalable workflows.
+I build AI-enabled products from ambiguous problem spaces—combining product strategy, user workflows, technical execution, and measurable business outcomes.
 
-My experience spans product strategy, discovery, requirements definition, AI-assisted workflows, Agile execution and cross-functional product delivery. I am particularly interested in AI-native enterprise products, technical product management and systems that improve high-stakes decision-making.
+My work focuses on:
+
+- AI-native product development
+- B2B SaaS and workflow products
+- Product discovery and market research
+- PRDs, user stories, and roadmap strategy
+- Human-in-the-loop AI systems
+- Agile delivery and cross-functional execution
+
+---
 
 ## Featured Projects
 
 ### ResolveOps — Agentic Incident Response MVP
 
-A full-stack incident-response platform that transforms alert noise into structured incidents, probable root-cause hypotheses and human-approved remediation workflows.
+A full-stack incident-response platform that turns infrastructure alerts into structured incidents, root-cause hypotheses, human-approved remediation actions, audit trails, and postmortems.
 
-**Key capabilities**
+**What it demonstrates:**
 
-* Supabase authentication and secure user-specific data
-* Persistent incidents and grouped telemetry alerts
-* Root-cause hypotheses with evidence and confidence scores
-* Human approval and rejection workflows
-* Simulated remediation execution
-* Immutable-style audit timelines
-* Automated postmortem generation
-* Responsive operational dashboard
+- Alert correlation and incident creation
+- Root-cause analysis with confidence scoring
+- Human approval before remediation
+- Simulated action execution
+- Persistent audit history
+- User authentication and data isolation
 
-**Technology:** React, TypeScript, Vite, Supabase, PostgreSQL, Vercel and GitHub
-
+[View Repository](https://github.com/Deekhatri/agentic-incident-response-mvp)  
 [View Live Demo](https://agentic-incident-response-mvp.vercel.app)
 
+**Technology:** React, TypeScript, Vite, Supabase, PostgreSQL, Vercel
+
 ---
 
-### KYC Flow — Customer Verification Orchestration Prototype
+### KYC Flow — Customer Onboarding Prototype
 
-An interactive product prototype demonstrating how financial institutions can manage identity-verification failures, automated fallback journeys, risk classification and audit-ready onboarding decisions.
+An interactive fintech onboarding prototype demonstrating verification failures, automatic fallback journeys, risk classification, straight-through approval, and audit-ready decision tracking.
 
-**Key capabilities**
+**What it demonstrates:**
 
-* Customer onboarding operations dashboard
-* Simulated Aadhaar OTP verification
-* Automatic DigiLocker fallback
-* Risk classification
-* Straight-through application approval
-* Compliance audit timeline
+- Simulated CKYCR and Aadhaar OTP verification
+- Automatic DigiLocker fallback
+- Customer-progress preservation
+- Risk scoring and approval logic
+- Compliance-oriented audit timeline
+- Operational dashboard design
 
-**Technology:** React, TypeScript, Vite, GitHub and Vercel
-
+[View Repository](https://github.com/Deekhatri/kyc-flow-demo)  
 [View Live Demo](https://kyc-flow-demo.vercel.app)
 
-## What I Work On
-
-* AI-native product strategy
-* Product discovery and market research
-* B2B SaaS platforms
-* Workflow and operations products
-* Agentic AI systems
-* Product requirements and roadmap definition
-* Technical product architecture
-* Agile product delivery
-
-## Current Focus
-
-I am currently strengthening my technical product-management capabilities by independently designing and building functional product MVPs—from requirements and data modelling through backend integration, testing and deployment.
-
-## Connect With Me
-
-* LinkedIn: [linkedin.com/in/dkkhatri](https://www.linkedin.com/in/dkkhatri/)
-* Email: [deekhatri20@gmail.com](mailto:deekhatri20@gmail.com)
+**Technology:** React, TypeScript, Vite, Synthetic Data, Vercel
 
 ---
 
-> The applications shown here are portfolio and product-validation projects. They use synthetic data and simulated operational actions unless stated otherwise.
+## Product Skills
+
+**Product Strategy:** Product Discovery, Market Analysis, Competitive Intelligence, Roadmapping, Prioritisation
+
+**Product Execution:** PRDs, Business Requirements, User Stories, Backlog Management, UAT, Release Planning
+
+**AI Products:** Agentic Workflows, Human-in-the-Loop Systems, AI Evaluation, Decision Support, Workflow Automation
+
+**Analytics:** North-Star Metrics, Funnel Analysis, KPI Design, Hypothesis Testing, Experimentation
+
+**Collaboration:** Engineering, Design, Operations, Sales, Marketing, and Senior Leadership
+
+---
+
+## What I’m Currently Exploring
+
+- AI product management
+- Agentic workflow design
+- Technical product management
+- Responsible AI decision systems
+- Product intelligence and organisational memory
+
+---
+
+## Contact
+
+**Email:** [deekhatri20@gmail.com](mailto:deekhatri20@gmail.com)
